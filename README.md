@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArgotAaron
 - 👀 I’m interested in every technology and innovation
-- 🌱 I’m currently learning python and cloud computing
+- 🌱 I’m currently learning Javascript and Cloud Computing
 - 💞️ I’m looking to collaborate on research projects
 - 📫 How to reach me, just send a email 
 
